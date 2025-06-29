@@ -22,13 +22,10 @@
 
 ---
 
-### 📌 Featured Projects
-- [🔗 Club Game Booking Website](https://github.com/your-username/project1)
-- [🔗 Discord UI Clone](https://github.com/your-username/project2)
-- [🔗 Voice-Based E-Governance Chatbot](https://github.com/your-username/project3)
+
 
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/Mithun%20M-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/Mithun%20M-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mithun-m-337000301/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
