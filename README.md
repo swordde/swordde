@@ -18,9 +18,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=swordde&show_icons=true&theme=radical" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=swordde&theme=radical" />
     </td>
   </tr>
