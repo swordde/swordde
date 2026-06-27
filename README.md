@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Swordde</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi , I'm Swordde</h1>
+<h3 align="center">A passionate developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Love+to+build+cool+projects!;Learning+AI%2C+React+and+Python;Let%27s+build+together+%F0%9F%9A%80" alt="Typing SVG" />
+<h1 align = "center"> I just code for fun
+  <h1>
 </p>
 
 ---
