@@ -31,4 +31,4 @@
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/Mithun%20M-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mithun-m-337000301/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://swordde.github.io/thesauros/)
