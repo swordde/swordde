@@ -13,18 +13,6 @@
   <img src="https://skillicons.dev/icons?i=go,neovim,c,git,postgresql,jenkins,nodejs,python,js,html,css,mongodb,firebase,github" />
 </p>
 
----
-
-### 📈 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=swordde&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-
 
 
 ---
