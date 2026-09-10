@@ -10,7 +10,7 @@
 
 ### 🔧 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,neovim,c,zig,git,postgresql,jenkins,nodejs,python,js,html,css,mongodb,firebase,github" />
+  <img src="https://skillicons.dev/icons?i=go,neovim,c,git,postgresql,jenkins,nodejs,python,js,html,css,mongodb,firebase,github" />
 </p>
 
 
